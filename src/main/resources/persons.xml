@@ -1,0 +1,23 @@
+<persons>
+    <person type="employee" salary="1000">
+        <age>29</age>
+        <name>Denis</name>
+    </person>
+    <person>
+        <age>39</age>
+        <name>Piter</name>
+    </person>
+    <person>
+        <age>29</age>
+        <name>Boris</name>
+    </person>
+    <person>
+        <age>20</age>
+        <name>Ivan</name>
+    </person>
+    <person>
+        <age>49</age>
+        <name>Jack</name>
+    </person>
+</persons>
+
