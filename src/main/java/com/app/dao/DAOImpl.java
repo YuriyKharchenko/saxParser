@@ -4,9 +4,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Andre on 21.06.2016.
- */
+
 public class DAOImpl implements DAO {
 
     static {

@@ -1,8 +1,6 @@
 package com.app.dao;
 
-/**
- * Created by Andre on 21.06.2016.
- */
+
 public class Employee {
     private long id;
     private String name;
